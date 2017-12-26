@@ -1,3 +1,6 @@
 # Rails-Information-Flow
 
-[diagram]: "./Rails_Control_Flow.png"
+[diagram]: "https://github.com/RobertClayton/Rails-Information-Flow/blob/master/Rails_Control_Flow.png"
+
+
+[diagram]
